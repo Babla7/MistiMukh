@@ -1,0 +1,141 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    height: 110px;
+    width: auto;
+    border: 2px solid rgb(238, 81, 81);
+    justify-content: space-between;
+    background-color:rgb(238, 81, 81);
+    box-shadow: 0px 0px 7px rgb(233, 182, 117);
+}
+#logo-part{
+    height: 70px;
+    width: 400px;
+    border: 2px solid antiquewhite;
+    font-size: 50px;
+    /* padding-bottom: 75px; */
+    padding-top: 5px;
+    padding-left: 45px;
+    margin: 15px;
+    background-color: rgb(232, 80, 80);
+    color: bisque;
+    box-shadow: 0px 0px 6px  rgb(234, 161, 161);
+    text-shadow: 0px 0px 11px black;
+}
+#first-nav{
+    border: 1px solid rgb(238, 81, 81);
+    display: flex;
+    height: 50px;
+    margin-top: 45px;
+    margin-left: 400px;
+}
+.b{
+    height: 30px;
+    width: 110px;
+    /* border-bottom: 1px solid black; */
+    padding-left: 18px;
+    padding-top: 5px;
+    margin: 10px 8px;
+    background-color: bisque;
+    color: rgba(165, 42, 42, 0.911);
+    /* box-shadow: 0px 0px 5px rgb(214, 171, 118);   */
+    
+}
+#fran{
+    height: 30px;
+    width: 200px;
+    /* border-bottom: 1px solid black; */
+    padding-left: 30px;
+    padding-top: 5px;
+    /* text-decoration: none; */
+}
+
+a{
+    text-decoration: none;
+}
+#contact-main{
+    height: 400px;
+    width: auto;
+    border: 1px solid white;
+    text-align: center;
+    font-size: 55px;
+    font-family: cursive;
+    font-weight: bold;
+    padding-top: 145px;
+    /* padding-bottom: 55px; */
+    margin-top: 25px;
+    background-image: url("cute-seamless-pattern-with-white-flowers-light-blue-background_609851-81.jpg");
+    color: red;
+    box-shadow: 0px 0px 8px skyblue;
+    text-shadow: 0px 0px 8px black;    
+}
+#sec-main{
+    height: 100px;
+    width: 100%;
+    border: 1px solid white;
+    display: flex;
+    margin: 35px auto;
+    box-shadow: 2px 2px 9px skyblue;
+}
+#home{
+    padding-left: 585px;
+    /* text-align: center; */
+    font-size: 25px;
+    padding-top: 30px;
+    color: black;
+    /* font-weight: lighter; */
+}
+#contact{
+    padding-left: 195px;
+    font-size: 25px;
+    padding-top: 30px;
+    color: black;
+    /* font-weight: lighter; */
+}
+/* get */
+#get{
+    height: 100px;
+    width: auto;
+    border: 1px solid white;
+    text-align: center;
+    margin: 205px;
+    
+}
+/* details */
+#details{
+    height: 300px;
+    width: auto;
+    border: 1px solid white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 25px;
+    margin: 105px;
+    /* text-decoration: underline; */
+}
+#address{
+    padding-left: 105px;
+}
+#last-footer-1{
+    height: 600px;
+    width: 1530px;
+    /* margin-left: -1150px; */
+    border: 1px solid red;
+    display: flex;
+    background-color: rgb(237, 76, 76);
+    margin-top: 75px;
+}
+.h{
+    height: 400px;
+    width: 300px;
+    border: 1px solid rgb(237, 76, 76);
+    margin: 100px 35px;
+    padding-top: 25px;
+    padding-left: 25px;
+    color: bisque;
+    font-size: 18px;
+}

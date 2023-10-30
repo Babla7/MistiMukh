@@ -1,0 +1,191 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+    font-weight: bold;
+}
+header{
+    display: flex;
+    height: 110px;
+    width: auto;
+    border: 2px solid rgb(238, 81, 81);
+    justify-content: space-between;
+    background-color:rgb(238, 81, 81);
+    box-shadow: 0px 0px 7px rgb(233, 182, 117);
+}
+#logo-part{
+    height: 70px;
+    width: 400px;
+    border: 2px solid antiquewhite;
+    font-size: 50px;
+    padding-bottom: 75px;
+    padding-left: 20px;
+    margin: 15px;
+    background-color: rgb(232, 80, 80);
+    color: bisque;
+    box-shadow: 0px 0px 6px  rgb(234, 161, 161);
+    text-shadow: 0px 0px 11px black;
+}
+#first-nav{
+    border: 1px solid rgb(238, 81, 81);
+    display: flex;
+    height: 50px;
+    margin-top: 45px;
+    margin-left: 400px;
+}
+.b{
+    height: 30px;
+    width: 110px;
+    /* border-bottom: 1px solid black; */
+    padding-left: 18px;
+    padding-top: 5px;
+    margin: 10px 8px;
+    background-color: bisque;
+    color: rgba(165, 42, 42, 0.911);
+    /* box-shadow: 0px 0px 5px rgb(214, 171, 118);   */
+    
+}
+#fran{
+    height: 30px;
+    width: 200px;
+    /* border-bottom: 1px solid black; */
+    padding-left: 30px;
+    padding-top: 2px;
+    /* text-decoration: none; */
+}
+#About-us{
+    height: 300px;
+    width: auto;
+    border: 1px solid white;
+    background-image: url("v438-tang-14a-cherryblossom_1.jpg");
+    background-size: cover;
+    margin: 25px auto;
+    font-size: 65px;
+    color: red;
+    text-align: center;
+    padding-top: 105px;
+}
+#background{
+    height: 900px;
+    width: 100%;
+    background-image: url("Bengali_sweet_platter.jpg");
+    border: 1px solid red;
+    background-size: cover;
+}
+#main-write{
+    height: 100px;
+    width: 100%;
+    border: 1px solid white;
+    margin: 45px 5px;
+    text-align: center;
+    font-size: 20px;
+    color: red;
+    background-color: bisque;
+    padding-top: 15px;
+}
+#write{
+    height: 700px;
+    width: auto;
+    border: 1px solid white;
+    display: flex;
+}
+.c{
+    height: 500px;
+    width: 500px;
+    color: black;
+    font-weight: lighter;
+    border: 1px solid white;
+    margin-top: 89px;
+}
+#written{
+    margin-left: 85px;
+    padding-left: 7px;
+    padding-top: 5px;
+}
+#photo{
+    background-image: url("Types-of-Chefs2.jpg");
+    background-size: cover;
+    margin-left: 350px;
+
+}
+#last-footer-1{
+    height: 600px;
+    width: 1530px;
+    /* margin-left: -1150px; */
+    border: 1px solid red;
+    display: flex;
+    background-color: rgb(237, 76, 76);
+    margin-top: 75px;
+}
+.h{
+    height: 400px;
+    width: 300px;
+    border: 1px solid rgb(237, 76, 76);
+    margin: 100px 35px;
+    padding-top: 25px;
+    padding-left: 25px;
+    color: bisque;
+}
+#wr-re{
+    border: 1px solid white;
+    padding-left: 43px;
+}
+#review{
+    height: 250px;
+    width: auto;
+    border: 1px solid white;
+    display: flex;
+    margin: 65px auto;
+}
+.d{
+    height: 250px;
+    width: 300px;
+    border: 1px solid black;
+    font-weight: lighter;
+    text-align: center;
+    padding-top: 15px;
+}
+#re1{
+    margin-left: 25px ;
+    box-shadow: 0px 0px 6px black;
+}
+#re2{
+    margin-left: 285px;
+    box-shadow: 0px 0px 6px black;
+}
+#re3{
+    margin-left:285px;
+    box-shadow: 0px 0px 6px black;
+}
+body{
+    overflow-x: hidden;
+}
+#home:hover{
+    color: black;
+
+}
+#about:hover{
+    color: black;
+}
+#fran:hover{
+    color: black;
+}
+#cont:hover{
+    color: black;
+}
+#login:hover{
+    color: black;
+}
+a{
+    text-decoration: none;
+}
+#f2:hover{
+    color: black;
+}
+#f3:hover{
+    color: black;
+}
+#f4:hover{
+    color: black;
+}

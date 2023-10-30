@@ -1,0 +1,120 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    height: 110px;
+    width: auto;
+    border: 2px solid rgb(238, 81, 81);
+    justify-content: space-between;
+    background-color:rgb(238, 81, 81);
+    box-shadow: 0px 0px 7px rgb(233, 182, 117);
+}
+#logo-part{
+    height: 70px;
+    width: 400px;
+    border: 2px solid antiquewhite;
+    font-size: 50px;
+    /* padding-bottom: 75px; */
+    padding-top: 5px;
+    padding-left: 35px;
+    margin: 19px;
+    background-color: rgb(232, 80, 80);
+    color: bisque;
+    box-shadow: 0px 0px 6px  rgb(234, 161, 161);
+    text-shadow: 0px 0px 11px black;
+}
+#first-nav{
+    border: 1px solid rgb(238, 81, 81);
+    display: flex;
+    height: 50px;
+    margin-top: 45px;
+    margin-left: 400px;
+}
+.b{
+    height: 30px;
+    width: 110px;
+    /* border-bottom: 1px solid black; */
+    padding-left: 22px;
+    padding-top: 5px;
+    margin: 10px 8px;
+    background-color: bisque;
+    color: rgba(165, 42, 42, 0.911);
+    /* box-shadow: 0px 0px 5px rgb(214, 171, 118);   */
+    
+}
+#fran{
+    height: 30px;
+    width: 200px;
+    /* border-bottom: 1px solid black; */
+    padding-left: 30px;
+    padding-top: 5px;
+    /* text-decoration: none; */
+}
+a{
+    text-decoration: none;
+}
+
+#fran-front{
+    height: 300px;
+    width: auto;
+    border: 1px solid white;
+    background-image: url("cute-seamless-pattern-with-white-flowers-light-blue-background_609851-81.jpg");
+    text-align: center;
+    padding-top: 115px;
+    font-size: 45px;
+    margin: 25px;
+}
+#intro{
+    height: 300px;
+    width: auto;
+    border: 1px solid white;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 45px;
+    margin: 55px auto;
+
+}
+#middle-intro{
+    height: 400px;
+    width: auto;
+    border: 1px solid WHITE;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 65px;
+    margin: 105px auto;
+}
+#fran-pic{
+    height: 300px;
+    width: auto;
+    border: 1px solid white;
+    display: flex;
+    justify-content: space-between;
+    margin: 65px auto;
+}
+.c{
+    height: 300px;
+    width: 400px;
+    border: 1px solid white;
+    box-shadow: 4px 4px 9px black;
+}
+#last-footer-1{
+    height: 600px;
+    width: 1530px;
+    /* margin-left: -1150px; */
+    border: 1px solid red;
+    display: flex;
+    background-color: rgb(237, 76, 76);
+    margin-top: 75px;
+}
+.h{
+    height: 400px;
+    width: 300px;
+    border: 1px solid rgb(237, 76, 76);
+    margin: 100px 35px;
+    padding-top: 25px;
+    padding-left: 25px;
+    color: bisque;
+}
